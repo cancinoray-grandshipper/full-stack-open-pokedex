@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - staging
+      - main
 
 jobs:
   hello_world_job:
